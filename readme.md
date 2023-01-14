@@ -1,3 +1,8 @@
+## Achived goals
+Throughout this project I was able to achive my goal of understanding how a transaction works in blockchain.
+I was also able to learn how security works and how valuble it is in any industry. I was able to acomplish the main thing I was striving for in being able to code something that is related to block chain which is a big step for me. Moving forward, I want to learn more about the ideas behind contracts and how web2 software is implemented in web3 and how web3 is going to take it further in the future. Overall a very interesting project and can't wait to do more!
+
+
 ## ECDSA Node
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
